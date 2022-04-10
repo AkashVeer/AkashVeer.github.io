@@ -13,7 +13,7 @@
 
     --clr-light: #fff;
     --clr-dark: #303030;
-    --clr-accent: #f1ed09;
+    --clr-accent: #09d2f1;
 
     --fs-h1: 3rem;
     --fs-h2: 2.25rem;
@@ -171,6 +171,7 @@ header {
     background-color: var(--clr-dark);
     margin: 0;
     padding-bottom: 0;
+    height: 50px;
 }
 
 .logo {
